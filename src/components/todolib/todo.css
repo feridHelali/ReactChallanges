@@ -1,0 +1,9 @@
+.item{
+    display:flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    font-size: 1.5em;
+    align-items: center;
+    padding: 1.5em;
+    margin:3px;
+}

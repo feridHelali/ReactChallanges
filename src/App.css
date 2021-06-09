@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+.card{
+  display: flex;
+  flex-direction: column;
+  cursor: pointer;
+}
+
+.cardContent {
+  padding: 7px;
+  margin: 3px;
+}
+
+.cardContentStyled{
+  font-size: 2em;
+  background-color: coral;
+  color: beige;
+}
